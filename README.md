@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Alexey 👋
 
-<!--
-**alalexkrr/alalexkrr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build **Python automation and AI-powered backend systems**.
 
-Here are some ideas to get you started:
+My main interests are:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🤖 AI automation and LLM integrations
+- 🐍 Python, asyncio and backend architecture
+- 💬 Telegram bots with aiogram
+- 🔌 External REST APIs and structured data pipelines
+- 🧠 RAG, Qdrant, embeddings and structured LLM output
+- 🔐 Privacy, data minimization and prompt-injection protection
+- 🐳 Docker, Docker Compose and Linux deployment
+
+## Current project
+
+### [org_info](https://github.com/alalexkrr/alex_k_org_info)
+
+A Telegram bot for automated analysis of organizations and individual entrepreneurs by INN.
+
+The project combines external APIs, deterministic analytics, privacy-safe LLM context, RAG with Qdrant, structured output validation and multi-provider LLM fallback.
+
+## Tech
+
+`Python` · `asyncio` · `aiogram` · `httpx` · `Pydantic` · `SQLite` · `PostgreSQL` · `Qdrant` · `Docker` · `Git`
+
+---
+
+Currently exploring practical ways to use AI for **automation, backend development and reliable agent workflows**.
