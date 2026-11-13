@@ -18,3 +18,8 @@ I built the Python backend to collect data from external APIs, run rule-based ch
 - **AI and data:** LLM integrations, structured outputs, RAG, Qdrant, SQLite, PostgreSQL
 - **Workflow automation:** n8n, Albato
 - **Development and deployment:** Git, Docker, Docker Compose, Linux
+
+## Beyond my projects
+
+I run LLMs locally with Ollama and explore LM Studio. I like comparing how different models run on my own hardware, especially the trade-offs between speed, memory use, and response quality.
+I'm also learning about model training and fine-tuning, with an interest in PyTorch and TensorFlow.
