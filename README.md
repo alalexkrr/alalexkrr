@@ -14,7 +14,7 @@ My main interests are:
 
 ## Current project
 
-### [org_info](https://github.com/alalexkrr/alex_k_org_info)
+### [alex_k_org_info](https://github.com/alalexkrr/alex_k_org_info)
 
 A Telegram bot for automated analysis of organizations and individual entrepreneurs by INN.
 
