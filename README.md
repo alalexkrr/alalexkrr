@@ -15,7 +15,7 @@ I built the Python backend to collect data from external APIs, run rule-based ch
 ## Tech stack
 
 - **Backend and integrations:** Python, asyncio, aiogram, httpx, Pydantic, REST APIs
-- **AI and data:** LLM integrations, structured outputs, RAG, Qdrant, SQLite, PostgreSQL
+- **AI and data:** LLM integrations, structured outputs, RAG, LangChain, Qdrant, SQLite, PostgreSQL
 - **Workflow automation:** n8n, Albato
 - **Development and deployment:** Git, Docker, Docker Compose, Linux
 
