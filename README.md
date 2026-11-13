@@ -1,29 +1,20 @@
 # Hi, I'm Alexey 👋
 
-I build **Python automation and AI-powered backend systems**.
+I build **AI-powered automations for business processes**. My focus is on reducing manual work, such as copying information between systems, checking multiple data sources, and turning raw data into structured reports.
 
-My main interests are:
+I use low-code tools like n8n and Albato for straightforward integrations and write Python when a workflow needs custom logic or a dedicated backend. I combine both approaches when that makes the workflow easier to maintain.
 
-- 🤖 AI automation and LLM integrations
-- 🐍 Python, asyncio and backend architecture
-- 💬 Telegram bots with aiogram
-- 🔌 External REST APIs and structured data pipelines
-- 🧠 RAG, Qdrant, embeddings and structured LLM output
-- 🔐 Privacy, data minimization and prompt-injection protection
-- 🐳 Docker, Docker Compose and Linux deployment
-
-## Current project
+## Featured project
 
 ### [alex_k_org_info](https://github.com/alalexkrr/alex_k_org_info)
 
-A Telegram bot for automated analysis of organizations and individual entrepreneurs by INN.
+`org_info` is a Telegram bot that brings together information about a company or sole proprietor from multiple sources. Enter a Russian taxpayer ID (INN) to get a structured report without looking up each source separately.
 
-The project combines external APIs, deterministic analytics, privacy-safe LLM context, RAG with Qdrant, structured output validation and multi-provider LLM fallback.
+I built the Python backend to collect data from external APIs, run rule-based checks, and generate a report with an LLM. The checks run in code, so the model summarizes the findings without deciding the results. The backend limits the data sent to the model, retrieves relevant reference material through Qdrant, validates the model's structured output, and can fall back to another LLM provider.
 
-## Tech
+## Tech stack
 
-`Python` · `asyncio` · `aiogram` · `httpx` · `Pydantic` · `SQLite` · `PostgreSQL` · `Qdrant` · `Docker` · `Git`
-
----
-
-Currently exploring practical ways to use AI for **automation, backend development and reliable agent workflows**.
+- **Backend and integrations:** Python, asyncio, aiogram, httpx, Pydantic, REST APIs
+- **AI and data:** LLM integrations, structured outputs, RAG, Qdrant, SQLite, PostgreSQL
+- **Workflow automation:** n8n, Albato
+- **Development and deployment:** Git, Docker, Docker Compose, Linux
