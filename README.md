@@ -4,6 +4,8 @@ I build **AI-powered automations for business processes**. My focus is on reduci
 
 I use low-code tools like n8n and Albato for straightforward integrations and write Python when a workflow needs custom logic or a dedicated backend. I combine both approaches when that makes the workflow easier to maintain.
 
+I'm currently building a supplier registry, using Python and Spark to process data from Hadoop, ClickHouse to store it, and Apache Superset to build dashboards.
+
 ## Featured project
 
 ### [alex_k_org_info](https://github.com/alalexkrr/alex_k_org_info)
@@ -14,9 +16,12 @@ I built the Python backend to collect data from external APIs, run rule-based ch
 
 ## Tech stack
 
-- **Backend and integrations:** Python, asyncio, aiogram, httpx, Pydantic, REST APIs
-- **AI and data:** LLM integrations, structured outputs, RAG, LangChain, Qdrant, SQLite, PostgreSQL
 - **Workflow automation:** n8n, Albato
+- **Backend and integrations:** Python, asyncio, aiogram, httpx, Pydantic, REST APIs
+- **LLM and RAG:** LLM integrations, structured outputs, LangChain, Qdrant
+- **Data engineering:** SQL, Hadoop (HDFS), Apache Spark (PySpark)
+- **Databases:** ClickHouse, PostgreSQL, SQLite
+- **Data analytics and BI:** Apache Superset, Power BI
 - **Development and deployment:** Git, Docker, Docker Compose, Linux
 
 ## Beyond my projects
