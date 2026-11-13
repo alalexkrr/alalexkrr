@@ -4,7 +4,7 @@ I build **AI-powered automations for business processes**. My focus is on reduci
 
 I use low-code tools like n8n and Albato for straightforward integrations and write Python when a workflow needs custom logic or a dedicated backend. I combine both approaches when that makes the workflow easier to maintain.
 
-I'm currently building a supplier registry, using Python and Spark to process data from Hadoop, ClickHouse to store it, and Apache Superset to build dashboards.
+I also build data pipelines with Python and Apache Spark, work with analytical data in ClickHouse, and create dashboards in Apache Superset.
 
 ## Featured project
 
