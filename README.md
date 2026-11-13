@@ -18,9 +18,9 @@ I built the Python backend to collect data from external APIs, run rule-based ch
 
 - **Workflow automation:** n8n, Albato
 - **Backend and integrations:** Python, asyncio, aiogram, httpx, Pydantic, REST APIs
-- **LLM and RAG:** LLM integrations, structured outputs, LangChain, Qdrant
+- **LLM and RAG:** LLM integrations, structured outputs, LangChain, Qdrant, FAISS
 - **Data engineering:** SQL, Hadoop (HDFS), Apache Spark (PySpark)
-- **Databases:** ClickHouse, PostgreSQL, SQLite
+- **Databases:** ClickHouse, PostgreSQL, Oracle, SQLite
 - **Data analytics and BI:** Apache Superset, Power BI
 - **Development and deployment:** Git, Docker, Docker Compose, Linux
 
